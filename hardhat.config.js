@@ -5,8 +5,8 @@ module.exports = {
 
 require("@nomiclabs/hardhat-waffle");
 
-const endpointUrl = "ADD_YOUR_QUICKNODE_URL_HERE";
-const privateKey = "ADD_YOUR_PRIVATE_KEY_HERE";
+const endpointUrl = "END_POINTURL";
+const privateKey = "PRIVATE_KEY";
 module.exports = {
   solidity: "0.8.21",
   networks: {
